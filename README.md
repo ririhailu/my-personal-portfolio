@@ -2,15 +2,16 @@
 
 ## Description
 
-A professional portfolio displays your work samples and accomplishments. It is an evidence that proofs all of your acquired skills and abilities overtime. The possibilties are endless when creating an online portfolio. It allows you to be exposed to different online community, client and employer. 
+A professional portfolio displays your work samples and accomplishments. It is evidence that proofs all your acquired skills and abilities overtime. The possibilities are endless when creating an online portfolio. It allows you to be exposed to different online community, client, and employer. 
 
 
-I learned various ways to create, alter, manipulate a webpage to reflect the needs of web client and owner. I learned how to build a professional webpage using HTML, CSS and JavaScript. I also helped multiple companys to update and create their webpage to increase client flow. 
+I learned various ways to create, alter, manipulate a webpage to reflect the needs of web client and owner. I learned how to build a professional webpage using HTML, CSS, and JavaScript. I also helped multiple companies update and create their webpage to increase client flow.
+
 
 
 ## Installation
 
-The my-personal-portfolio was intially created in repository in GitHub. The repository was cloned into local desktop. When inspecting the image's the elements were altered to change the height, lenght, position and padding of images . All changes were added, commited and pushed to repository.  
+The my-personal-portfolio was initially created in repository in GitHub. The repository was cloned into local desktop. When inspecting image's, the elements were altered to change the height, length, position and padding of images. All changes were added, committed, and pushed to repository.  
 
 
 ## Credits
